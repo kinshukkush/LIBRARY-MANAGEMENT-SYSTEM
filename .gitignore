@@ -1,0 +1,11 @@
+# Compiled Java class files
+*.class
+
+# Runtime data files
+library.dat
+
+# Log files
+*.log
+
+# BlueJ files
+*.ctxt
